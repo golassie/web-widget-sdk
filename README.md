@@ -1,3 +1,5 @@
+Modified from the original MX Web Widget SDK. Fixes the types issue.
+
 # MX Web Widget SDK
 
 The purpose of this project is to help simplify your integration experience.
