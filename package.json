@@ -1,6 +1,6 @@
 {
   "name": "@golassie/mx-web-widget-sdk",
-  "version": "0.0.13",
+  "version": "0.0.13-patched",
   "description": "MX Web Widget SDK",
   "main": "./dist/cjs/index.js",
   "types": "./dist/types/src/index.d.ts",
